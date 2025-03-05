@@ -1,6 +1,0 @@
-print("====================")
-print("Nama\t:hafiz")
-print("Nim\t:1234753")
-print("kelas\t:66")
-print("====================")
-huj
